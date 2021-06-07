@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-phase-2-project/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/my-phase-2-project/static/js/main.23ef7403.chunk.js",
+    "main.js.map": "/my-phase-2-project/static/js/main.23ef7403.chunk.js.map",
+    "runtime-main.js": "/my-phase-2-project/static/js/runtime-main.23de543b.js",
+    "runtime-main.js.map": "/my-phase-2-project/static/js/runtime-main.23de543b.js.map",
+    "static/js/2.7076a0eb.chunk.js": "/my-phase-2-project/static/js/2.7076a0eb.chunk.js",
+    "static/js/2.7076a0eb.chunk.js.map": "/my-phase-2-project/static/js/2.7076a0eb.chunk.js.map",
+    "static/js/3.a4fb350d.chunk.js": "/my-phase-2-project/static/js/3.a4fb350d.chunk.js",
+    "static/js/3.a4fb350d.chunk.js.map": "/my-phase-2-project/static/js/3.a4fb350d.chunk.js.map",
+    "index.html": "/my-phase-2-project/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/my-phase-2-project/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.7076a0eb.chunk.js.LICENSE.txt": "/my-phase-2-project/static/js/2.7076a0eb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my-phase-2-project/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23de543b.js",
+    "static/js/2.7076a0eb.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.23ef7403.chunk.js"
+  ]
+}
