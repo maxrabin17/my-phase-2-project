@@ -9,8 +9,6 @@ const Quotes = () => {
         fetch('https://www.breakingbadapi.com/api/quote/random')
         .then(response => response.json())
         .then(data => setQuotes(data))
-        // .then(data => console.log(data))
-        // console.log(quotes)
     }
 
     return (
@@ -24,3 +22,4 @@ const Quotes = () => {
 }
 
 export default Quotes
+

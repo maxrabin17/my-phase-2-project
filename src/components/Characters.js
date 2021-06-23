@@ -10,7 +10,6 @@ const Characters = () => {
         fetch(`https://www.breakingbadapi.com/api/characters?name=${search}`)
         .then(res => res.json())
         .then(data => setCharacters(data))
-        // .then(data => console.log(data))
     }, [search])
     
     return (
@@ -28,3 +27,5 @@ const Characters = () => {
 }
 
 export default Characters
+
+

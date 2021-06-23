@@ -11,3 +11,4 @@ const HomeQuote = ({q, handleDelete}) => {
 }
 
 export default HomeQuote
+

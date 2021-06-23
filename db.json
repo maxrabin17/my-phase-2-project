@@ -1,10 +1,4 @@
 {
-  "favCharacters": [
-    {
-      "name": "Hector Salamanca",
-      "image": "https://vignette.wikia.nocookie.net/breakingbad/images/b/b4/Hector_BCS.jpg/revision/latest?cb=20170810091606",
-      "id": 3
-    }
-  ],
+  "favCharacters": [],
   "favQuotes": []
 }

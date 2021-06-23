@@ -15,7 +15,6 @@ const Home = () => {
         fetch(`http://localhost:3000/favQuotes`)
         .then(res => res.json())
         .then(data => setQuote(data))
-        // .then(data => console.log(data))
     }, [])
 
 const handleDeleteChar = (e) => {

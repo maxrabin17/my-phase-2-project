@@ -12,3 +12,4 @@ const HomeChar = ({c, handleDelete}) => {
 }
 
 export default HomeChar
+

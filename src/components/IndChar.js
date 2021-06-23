@@ -1,5 +1,4 @@
-import React, { useState } from 'react'
-import { Button } from 'react-bootstrap'
+import React from 'react'
 
 const IndChar = ({ character }) => {
     
@@ -44,6 +43,7 @@ const IndChar = ({ character }) => {
 }
 
 export default IndChar    
+
 
 
 
