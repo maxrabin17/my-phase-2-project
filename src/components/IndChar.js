@@ -6,7 +6,8 @@ const IndChar = ({ character }) => {
         e.preventDefault()
         let favCharacter = {
             name: character.name,
-            image: character.img
+            image: character.img,
+            status: character.status
         }
         let config = {
             method: "POST",

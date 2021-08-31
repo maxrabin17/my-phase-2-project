@@ -30,8 +30,7 @@ const handleDeleteChar = (e) => {
         .then(data => console.log(data))
 
         filterChar(e.target.id)
-
-    } 
+} 
 
     const filterChar = (id) => {
         const updatedChar = char.filter((char) => {
@@ -63,7 +62,6 @@ const handleDeleteQuote = (e) => {
         setQuote(updatedQuote)
     }
 
-    
     return (
         <div className="home-page-container">
             <h1>Welcome to Breaking Bad Quick Facts & Quotes</h1>
@@ -71,7 +69,7 @@ const handleDeleteQuote = (e) => {
                 <div className="character-column">
                     <h2>Favorite Characters</h2>
                         <div className="fav-char">
-                            {char.map(c => <HomeChar c={c} handleDelete={handleDeleteChar}/>)}
+                        {char.map(c => <HomeChar c={c} handleDelete={handleDeleteChar}/>)}
                         </div>
                 </div>
                 <div className="quote-column">
